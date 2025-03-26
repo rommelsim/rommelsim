@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @rommelsim
 - 👀 I’m interested in coding when i'm free
-- 🌱 I’m currently learning Swift and Pyhton(ML)
+- 🌱 I’m currently learning Python(ML)
 - 📫 How to reach me? No thx lol.
